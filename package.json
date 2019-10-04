@@ -1,0 +1,15 @@
+{
+  "name": "vue-easy-router",
+  "version": "1.0.0",
+  "description": "Automatic router based on folder tree presented as a vue plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tomgrv",
+  "license": "MIT",
+  "dependencies": {
+    "kind-of": "^6.0.2",
+    "vue-auto-routing": "^0.4.0"
+  }
+}
