@@ -86,7 +86,7 @@ Each state can handle following items:
 
 ## Directives injected
 
-This plugin injects directives to handle special feature
+This plugin injects directives to handle special features
 
 ### `v-modal`
 
